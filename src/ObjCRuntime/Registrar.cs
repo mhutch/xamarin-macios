@@ -7,7 +7,7 @@
 // Copyright 2013 Xamarin Inc. 
 //
 
-// #define VERBOSE_REGISTRAR
+#define VERBOSE_REGISTRAR
 
 #if IPHONE
 #define MONOTOUCH
